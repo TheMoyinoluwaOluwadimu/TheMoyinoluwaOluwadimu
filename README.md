@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Samuel a product designer with a computer science background and over 3 years of experience designing products across health, e-commerce, sports, fintech, education, and SaaS. has a strong understanding of HTML,
-CSS and a foundational understanding of Javascript, React Native and python.
+👋 Hi, I'm Samuel a Design Engineer with a computer science background and over 3 years of experience designing products across health, e-commerce, sports, fintech, education, and SaaS. has a strong understanding of HTML,
+CSS and an understanding of Javascript, React Native and python.
 
 # 💻 Tech Stack:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
